@@ -75,4 +75,3 @@ def read_item(author_id: int, q: Optional[str] = None):
 -Feel free to fork this repo and contribute. 🔧
 
 -Thank You!👍
-
